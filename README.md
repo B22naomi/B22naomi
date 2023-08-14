@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**B22naomi/B22naomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm Naomi Nyabuti a Computer Technology Bachelors Degree holder. I'm a front-end developer(JS,CSS,HTML)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on 
+> Amazon Clone using Html CSS and Javascript
+###🌱 I’m currently learning
+> Javascript
+### 💬 Ask me about 
+> Front-end web development
+### 📫 How to reach me: 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naomi-nyabuti-97b362229/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)](mailto:naom@gmail.com)
+
+### 😄 Pronouns:
+> She/Her
+
+### ⚡ Fun fact:
+> In can center a div :joy:
+
