@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on 
-> Amazon Clone using Html CSS and Javascript
+> A supervised machine learning project
 ###🌱 I’m currently learning
-> Javascript
+> Machine Learning
 ### 💬 Ask me about 
 > Front-end web development
 ### 📫 How to reach me: 
